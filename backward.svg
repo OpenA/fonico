@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="8.8664503mm"
+   height="5.2916999mm"
+   viewBox="0 0 8.8664503 5.2916999"
+   version="1.1"
+   id="svg1342"
+   inkscape:version="1.1-alpha (65d249f, 2021-01-17)"
+   sodipodi:docname="backward.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+  <sodipodi:namedview
+     id="namedview1344"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.71000982"
+     inkscape:cx="-15.492743"
+     inkscape:cy="138.02626"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1339" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.22424,-111.75689)">
+    <path
+       style="stroke-width:0.264581"
+       inkscape:connector-curvature="0"
+       sketch:type="MSShapeGroup"
+       id="Stop-path-2"
+       d="m 110.54714,111.75692 v 5.29167 h -1.3229 v -5.29167 z" />
+    <path
+       style="stroke-width:0.264581"
+       inkscape:connector-curvature="0"
+       sketch:type="MSShapeGroup"
+       id="Play-2"
+       d="m 114.38646,114.41728 -6.6e-4,0.16513 3.70489,2.46618 v -5.29167 l -3.70385,2.4655 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="stroke-width:0.264581"
+       inkscape:connector-curvature="0"
+       sketch:type="MSShapeGroup"
+       id="Play-3"
+       d="m 110.54721,114.41169 -0.001,0.0805 3.84037,2.55637 c 0,-1.75279 0,-3.70734 0,-5.29167 l -3.84109,2.55685 z"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
