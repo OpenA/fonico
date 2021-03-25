@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="17.910086"
+   height="17.117012"
+   viewBox="0 0 4.7387101 4.5288762"
+   version="1.1"
+   id="svg6769"
+   inkscape:version="1.1-alpha (65d249f, 2021-01-17)"
+   sodipodi:docname="chev.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6771"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.7300365"
+     inkscape:cx="54.912137"
+     inkscape:cy="10.693416"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6766" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.929502,-6.5842736)">
+    <path
+       id="rect4279"
+       style="stroke-width:0.0153849;paint-order:fill markers stroke"
+       d="m 14.431882,8.7831584 1.298007,1.8537456 c 0.102861,0.146901 0.08901,0.332849 -0.03106,0.416923 -0.120071,0.08407 -0.299543,0.0335 -0.402404,-0.113405 L 13.998418,9.0866759 c -0.102861,-0.1469008 -0.08901,-0.3328483 0.03106,-0.4169226 0.120071,-0.084074 0.299543,-0.033496 0.402404,0.1134051 z m 0.97847,1.8866966 2.762881,-3.9458039 c 0.09644,-0.1377363 0.27075,-0.1809376 0.390821,-0.096862 0.12007,0.084074 0.139091,0.2626436 0.04265,0.4003799 l -2.762881,3.945804 c -0.09644,0.137736 -0.27075,0.180937 -0.390821,0.09686 -0.120071,-0.08407 -0.139091,-0.262644 -0.04265,-0.40038 z" />
+  </g>
+</svg>
