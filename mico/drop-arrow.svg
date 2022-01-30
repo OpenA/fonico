@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 75">
+  <g id="micoDropArrowColored" fill="#636363">
+    <path id="micoDropArrow" d="M48 0v48h12L30 75 0 48h12V0Z"/>
+  </g>
+</svg>

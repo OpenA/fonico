@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <g id="micoAlphaGridColored" fill="rgba(0,0,0,.15)">
+    <path id="micoAlphaGrid" fill-rule="evenodd" d="M0 0h10v10H0zm10 10h10v10H10z"/>
+  </g>
+</svg>
